@@ -1,3 +1,7 @@
+import logging
+
+import azure.functions as func
+
 def main(req: func.HttpRequest) -> func.HttpResponse:
     headers = {"my-http-header": "some-value"}
 
