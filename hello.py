@@ -12,4 +12,4 @@ print("it is helpful.")
 
 print("Yes or no")
 
-print("yes")
+print("yes.")
