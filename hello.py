@@ -9,3 +9,5 @@ print('git is fun')
 print("let's learn")
 
 print("it is helpful.")
+
+print("Yes or no")
